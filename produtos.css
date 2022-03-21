@@ -1,0 +1,14 @@
+@media screen and (max-width: 480px) {
+.caixa {
+
+	width: 100%;
+	}
+
+	h1 {
+		text-align: center;
+	}	
+
+	nav {
+		position: static;
+	}
+}
